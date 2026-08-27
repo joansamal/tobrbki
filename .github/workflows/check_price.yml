@@ -20,7 +20,7 @@ jobs:
  
       - name: Instalar dependencias
         run: pip install requests yfinance
- 
+      - name: Listar archivos (debug) run: ls -la 
       - name: Ejecutar el bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
