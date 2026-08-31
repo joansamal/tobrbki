@@ -1,6 +1,3 @@
-bash
-
-cat > /mnt/user-data/outputs/telegram_stock_alert_github.py << 'PYEOF'
 """
 Bot de alertas de precios de acciones para Telegram - versión con comandos.
 
@@ -304,5 +301,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-PYEOF
-echo "Archivo actualizado correctamente"
