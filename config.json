@@ -3,6 +3,12 @@
   "telegram_chat_id": "TU_CHAT_ID_AQUI",
   "alerts": [
     {
+      "ticker": "CRWD",
+      "target_price": 220,
+      "direction": "below",
+      "triggered": false
+    },
+    {
       "ticker": "NVDA",
       "target_price": 215,
       "direction": "below",
