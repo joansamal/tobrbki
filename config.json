@@ -3,7 +3,7 @@
   "telegram_chat_id": "TU_CHAT_ID_AQUI",
   "alerts": [
     {
-      "ticker": "AAPL",
+      "ticker": "NVIDIA",
       "target_price": 200,
       "direction": "above",
       "triggered": true
