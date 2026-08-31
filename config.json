@@ -6,7 +6,7 @@
       "ticker": "CRWD",
       "target_price": 220,
       "direction": "above",
-      "triggered": false
+      "triggered": true
     },
     {
       "ticker": "CRWD",
