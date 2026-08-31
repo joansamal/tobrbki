@@ -4,13 +4,13 @@
   "alerts": [
     {
       "ticker": "NVDA",
-      "target_price": 200,
-      "direction": "above",
-      "triggered": true
+      "target_price": 215,
+      "direction": "below",
+      "triggered": false
     },
     {
-      "ticker": "TSLA",
-      "target_price": 150,
+      "ticker": "FTNT",
+      "target_price": 160,
       "direction": "below",
       "triggered": false
     }
