@@ -2,6 +2,12 @@
   "telegram_bot_token": "TU_TOKEN_AQUI",
   "telegram_chat_id": "TU_CHAT_ID_AQUI",
   "alerts": [
+     {
+      "ticker": "CRWD",
+      "target_price": 220,
+      "direction": "above",
+      "triggered": true
+    },
     {
       "ticker": "CRWD",
       "target_price": 220,
