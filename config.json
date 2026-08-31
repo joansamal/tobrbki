@@ -3,7 +3,7 @@
   "telegram_chat_id": "TU_CHAT_ID_AQUI",
   "alerts": [
     {
-      "ticker": "NVIDIA",
+      "ticker": "NVDA",
       "target_price": 200,
       "direction": "above",
       "triggered": true
