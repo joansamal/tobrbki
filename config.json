@@ -6,7 +6,7 @@
       "ticker": "NVDA",
       "target_price": 200,
       "direction": "above",
-      "triggered": true
+      "triggered": false
     },
     {
       "ticker": "TSLA",
