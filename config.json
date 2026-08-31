@@ -6,19 +6,19 @@
       "ticker": "CRWD",
       "target_price": 220,
       "direction": "below",
-      "triggered": false
+      "triggered": true
     },
     {
       "ticker": "NVDA",
       "target_price": 215,
       "direction": "below",
-      "triggered": false
+      "triggered": true
     },
     {
       "ticker": "FTNT",
       "target_price": 160,
       "direction": "below",
-      "triggered": false
+      "triggered": true
     }
   ]
 }
