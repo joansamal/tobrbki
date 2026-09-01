@@ -12,7 +12,7 @@
       "ticker": "CRWD",
       "target_price": 220,
       "direction": "below",
-      "triggered": false
+      "triggered": true
     },
     {
       "ticker": "NVDA",
