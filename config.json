@@ -24,7 +24,7 @@
       "ticker": "FTNT",
       "target_price": 160,
       "direction": "below",
-      "triggered": false
+      "triggered": true
     }
   ]
 }
