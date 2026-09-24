@@ -3,7 +3,7 @@ name: Revisar precios de acciones
 on:
   schedule:
     # Se ejecuta cada 5 minutos. Ajusta el número si quieres más o menos frecuencia.
-    - cron: "*/5 * * * *"
+    # - cron: "*/5 * * * *"
   workflow_dispatch: # permite ejecutarlo manualmente desde la pestaña Actions
 
 jobs:
